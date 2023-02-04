@@ -1,0 +1,100 @@
+.head{
+    position: relative;
+    font-size: 21px;
+    color: #111;
+    font-family: TradeGothicforNike365-BdCn,Helvetica!important;
+    font-size: 21px;
+    line-height: 23px;
+    margin: 0 auto;
+    max-width: 25ch;
+    text-align: center;
+    font-weight: bold;
+    left: -75px;
+}
+.em{
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: #8d8d8d;
+    font: 14px Helvetica;
+    height: 40px;
+    line-height: 17px;
+    padding: 0 16px;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    width:312px;
+    left: 438px;
+    position: relative;
+}
+.pass{
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: #8d8d8d;
+    font: 14px Helvetica;
+    height: 40px;
+    line-height: 17px;
+    padding: 0 16px;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    width:312px;
+    left: 122px;
+    position: relative;
+    top: 53px;
+}
+#check{
+    display: inline-block;
+    font-size: 12px;
+    line-height: 14px;
+    margin-left: 34px;
+    vertical-align: middle;
+    position: relative;
+    left: -226px;
+    top: 102px;
+    height: 35px;
+    width: 16px;
+}
+.forgot{
+    color: grey;
+    font-weight: lighter;
+    position: relative;
+    left: 613px;
+    top: 51px;
+    cursor: pointer;
+}
+.privacy{
+    position: relative;
+    text-align: center;
+    left: -74px;
+    top: 51px;
+    color: grey;
+    font-weight: lighter
+}
+.sign{
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 446px;
+    top: 14px;
+    height: 40px;
+    width: 303px;
+    font-size: 17px;
+    font: 14px helvetica;
+    font-family: trade;
+    line-height: 17px;
+    font-size: 17px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
+    
+}
+.member{
+    position: relative;
+    text-align: center;
+    left: -71px;
+    padding-top: -7px 4px;
+    padding: 5px -6px;
+    color: grey;
+    line-height: 44px;
+    font-weight: lighter;
+
+}
